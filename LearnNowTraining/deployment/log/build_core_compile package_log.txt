@@ -1,0 +1,16 @@
+Buildfile: E:\SHARED\GitHub\mendix-apps\LearnNow Training Management-main\deployment\build_core.xml
+
+compile:
+    [javac] Compiling 119 source files to E:\SHARED\GitHub\mendix-apps\LearnNow Training Management-main\deployment\run\bin
+    [javac] Note: Some input files use or override a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+    [javac] Note: Some input files use unchecked or unsafe operations.
+    [javac] Note: Recompile with -Xlint:unchecked for details.
+
+package:
+      [jar] Building jar: E:\SHARED\GitHub\mendix-apps\LearnNow Training Management-main\deployment\model\bundles\project.jar
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+
+

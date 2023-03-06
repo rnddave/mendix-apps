@@ -1,0 +1,57 @@
+{
+  "watchFolders": [
+    "E:/SHARED/GitHub/mendix-apps/LearnNow Training Management-main/theme",
+    "E:/SHARED/GitHub/mendix-apps/LearnNow Training Management-main/javascriptsource",
+    "E:/SHARED/GitHub/mendix-apps/LearnNow Training Management-main/themesource",
+    "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules"
+  ],
+  "resolver": {
+    "useWatchman": true,
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "sourceExts": [
+      "js",
+      "jsx",
+      "ts",
+      "tsx",
+      "cjs",
+      "mjs",
+      "json",
+      "js_commonjs-exports",
+      "js_commonjs-module"
+    ],
+    "extraNodeModules": {
+      "externalWidgets": "E:/SHARED/GitHub/mendix-apps/LearnNow Training Management-main/deployment/native/externalWidgets",
+      "@babel/runtime": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/@babel/runtime",
+      "big.js": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/big.js",
+      "react": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/react",
+      "react-dom": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/react-dom",
+      "react-native-gesture-handler": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/react-native-gesture-handler",
+      "react-native": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/react-native",
+      "react-native-code-push": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/react-native-code-push",
+      "react-native-device-info": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/react-native-device-info",
+      "react-native-material-menu": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/react-native-material-menu",
+      "react-navigation": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/react-navigation",
+      "react-navigation-drawer": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/react-navigation-drawer",
+      "react-navigation-stack": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/react-navigation-stack",
+      "react-navigation-tabs": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/react-navigation-tabs",
+      "react-native-svg": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/react-native-svg",
+      "react-native-tab-view": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/react-native-tab-view",
+      "react-native-vector-icons": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/react-native-vector-icons",
+      "react-native-fast-image": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/react-native-fast-image",
+      "react-native-screens": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/react-native-screens",
+      "react-native-localize": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/react-native-localize",
+      "react-native-reanimated": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/react-native-reanimated",
+      "react-native-safe-area-context": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/react-native-safe-area-context",
+      "@react-native-community/async-storage": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/@react-native-community/async-storage",
+      "@react-native-community/datetimepicker": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/@react-native-community/datetimepicker",
+      "@react-native-community/masked-view": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/@react-native-community/masked-view",
+      "eventemitter3": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/eventemitter3",
+      "mendix": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/mendix",
+      "mx-global": "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/mx-global"
+    }
+  },
+  "cacheVersion": "62233"
+}
