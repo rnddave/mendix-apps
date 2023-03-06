@@ -1,0 +1,11 @@
+Buildfile: E:\SHARED\GitHub\mendix-apps\LearnNow Training Management-main\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 54 files to E:\SHARED\GitHub\mendix-apps\LearnNow Training Management-main\deployment
+     [copy] Copying 40 files to E:\SHARED\GitHub\mendix-apps\LearnNow Training Management-main\deployment\model\lib\userlib
+     [copy] Copying 8 files to E:\SHARED\GitHub\mendix-apps\LearnNow Training Management-main\deployment\model\resources
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+

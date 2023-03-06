@@ -1,0 +1,10 @@
+Buildfile: E:\SHARED\GitHub\mendix-apps\LearnNow Training Management-main\deployment\build_core.xml
+
+clean:
+   [delete] Deleting directory E:\SHARED\GitHub\mendix-apps\LearnNow Training Management-main\deployment\model
+   [delete] Deleting directory E:\SHARED\GitHub\mendix-apps\LearnNow Training Management-main\deployment\run
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
