@@ -1,0 +1,14 @@
+Buildfile: E:\SHARED\GitHub\mendix-apps\LearnNow\deployment\build_core.xml
+
+compile:
+    [javac] Compiling 61 source files to E:\SHARED\GitHub\mendix-apps\LearnNow\deployment\run\bin
+    [javac] Note: E:\SHARED\GitHub\mendix-apps\LearnNow\javasource\system\UserActionsRegistrar.java uses or overrides a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+
+package:
+      [jar] Building jar: E:\SHARED\GitHub\mendix-apps\LearnNow\deployment\model\bundles\project.jar
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+
+

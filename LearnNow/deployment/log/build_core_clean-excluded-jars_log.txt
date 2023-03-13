@@ -1,0 +1,8 @@
+Buildfile: E:\SHARED\GitHub\mendix-apps\LearnNow\deployment\build_core.xml
+
+clean-excluded-jars:
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+

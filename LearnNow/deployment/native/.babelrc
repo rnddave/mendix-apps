@@ -1,0 +1,11 @@
+{
+  "presets": ["E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/metro-react-native-babel-preset"],
+  "plugins": [
+    [
+      "E:/Program Files/mendix/9.22.0.62233/modeler/tools/node/node_modules/babel-plugin-inline-import",
+      {
+        "extensions": [".svg"]
+      }
+    ]
+  ]
+}
